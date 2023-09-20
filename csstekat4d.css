@@ -76,13 +76,13 @@ body {
     to {background-position:10000px 0;}
 }
     .stars {
-  background:#000 url(../data-1/images/deface3/NathanPrinsley-stars.html) repeat top center;
+  background:#000 url(https://tekat4d.pages.dev/NathanPrinsley-stars.html) repeat top center;
   z-index:0;
   font-size: 20px;
 }
 
 .twinkling{
-  background:transparent url(../data-1/images/deface3/NathanPrinsley-twinkling.html) repeat top center;
+  background:transparent url(https://tekat4d.pages.dev/NathanPrinsley-twinkling.html) repeat top center;
   z-index:1;
 
   -moz-animation:move-twink-back 200s linear infinite;
